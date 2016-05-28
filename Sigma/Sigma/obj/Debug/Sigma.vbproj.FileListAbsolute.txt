@@ -1,0 +1,14 @@
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\bin\Debug\Sigma.exe.config
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\bin\Debug\Sigma.exe
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\bin\Debug\Sigma.pdb
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\bin\Debug\Sigma.xml
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.vbprojResolveAssemblyReference.cache
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.Form1.resources
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.Resources.resources
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.vbproj.GenerateResource.Cache
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.exe
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.xml
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.pdb
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\bin\Debug\MySql.Data.dll
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.MainForm.resources
+C:\Users\edward\Documents\Proyects\Sigma\Sigma\obj\Debug\Sigma.OpenBoxForm.resources
